@@ -1,7 +1,9 @@
 print("CÁLCULO EQUAÇÃO SEGUNDO GRAU")
-print("Qual o valor das A, B e C? ")
+print("Qual o valor de A?")
 a = float(input())
+print("Qual o valor de B?")
 b = float(input())
+print("Qual o valor de C?")
 c = float(input())
 import math 
 delta = b**2 - 4*a*c
